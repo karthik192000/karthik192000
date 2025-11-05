@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 I'm Karthik, a Software Engineer passionate about building scalable systems and clean APIs.<br>I love working with Java, Spring Boot, and AWS, exploring distributed systems, and solving complex backend challenges.<br><br>I’m usually geeking out about system design, tinkering with side projects, or breaking things (so I can learn how to fix them better).<br><br>Current Focus: Payments architecture, distributed tracing, and backend performance optimization.<br>Tech Stack: Java • Spring Boot • MongoDB • AWS • Docker • Kubernetes
+👋 I’m Karthik, a backend engineer who believes in building resilient, observable, and scalable systems.I enjoy working on real-world problems — like improving reliability in payment processing or optimizing distributed workflows.My projects are experiments that push me to learn — whether it’s async job scheduling, API reliability, or fault-tolerant design.Currently working on: Resilient Payments Demo 💳 — exploring failure handling, retries, and correlation tracing end-to-end.<br>Tech Stack: Java • Spring Boot • MongoDB • AWS • Docker • Kubernetes
 
 
 ## 🌐 Socials:
